@@ -168,7 +168,7 @@ function App() {
                     <li>Vergleichen Sie mehrere Bankangebote</li>
                     <li>Achten Sie auf Sondertilgungsrechte</li>
                     <li>Nebenkosten müssen sofort verfügbar sein</li>
-                    <li>Eigenkapital >20% = bessere Konditionen</li>
+                    <li>Eigenkapital &gt;20% = bessere Konditionen</li>
                     <li>Planen Sie finanziellen Puffer ein</li>
                   </ul>
                 </div>
