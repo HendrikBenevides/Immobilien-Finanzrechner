@@ -191,7 +191,7 @@ export default function FinanzierungsTabelle({ szenarien }: FinanzierungsTabelle
           </div>
           <div className="flex items-center">
             <div className="w-3 h-3 rounded-full bg-red-500 mr-2"></div>
-            <span className="text-gray-600">> 90%: Kritisch (schwierige Finanzierung)</span>
+            <span className="text-gray-600">&gt; 90%: Kritisch (schwierige Finanzierung)</span>
           </div>
         </div>
       </div>
